@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <Data_Collection>Model Design</Data_Collection>
+    <column_2></column_2>
+  </row>
+  <row>
+    <Data_Collection>Data Resizing</Data_Collection>
+    <column_2>Normalization</column_2>
+  </row>
+  <row>
+    <Data_Collection>Model Preparation</Data_Collection>
+    <column_2></column_2>
+  </row>
+  <row>
+    <Data_Collection>Training &amp; Validation</Data_Collection>
+    <column_2></column_2>
+  </row>
+  <row>
+    <Data_Collection>Evaluation &amp; Results</Data_Collection>
+    <column_2></column_2>
+  </row>
+  <row>
+    <Data_Collection>Evaluation &amp; Results Insights</Data_Collection>
+    <column_2></column_2>
+  </row>
+  <row>
+    <Data_Collection>Data Design</Data_Collection>
+    <column_2></column_2>
+  </row>
+  <row>
+    <Data_Collection>Maining &amp; Reprocessing</Data_Collection>
+    <column_2></column_2>
+  </row>
+</root>
